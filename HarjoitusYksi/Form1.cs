@@ -9,7 +9,7 @@ namespace HarjoitusYksi
 
         private void VaihdaBT_Click(object sender, EventArgs e)
         {
-            OtsikkoLB.Text = "Heippa Janne";
+            OtsikkoLB.Text = "Heippa Niklas";
         }
     }
 }
